@@ -1,4 +1,3 @@
-<details>
 <summary><b>1307. Verbal Arithmetic Puzzle 🔢</b></summary>
 
 ### 📘 Problem Statement
